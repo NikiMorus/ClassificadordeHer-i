@@ -9,7 +9,7 @@ let players = [
 
 for (let player of players) {
     let nivel;
-    let pontuacao = player.pontuacao; // Pega a pontuação do jogador atual
+    let pontuacao = player.pontuacao; 
 
 
 if (pontuacao <= 1000) {
